@@ -1,5 +1,5 @@
 # RobinHood-RSI-Trading-Bot
-20200820
+20200818
 
 Reference: 
 https://www.youtube.com/watch?v=kSLkRXY3NPQ
